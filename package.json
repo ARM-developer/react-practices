@@ -1,0 +1,23 @@
+{
+  "name": "practicando-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "projects/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARM-developer/react-practices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ARM-developer/react-practices/issues"
+  },
+  "homepage": "https://github.com/ARM-developer/react-practices#readme"
+}
